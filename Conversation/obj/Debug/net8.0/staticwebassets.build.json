@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8/0BBhu8oB8TNWBDl4zxaEhdhrx4vLJjRFss9ziPJE0=",
+  "Source": "Services.Conversation",
+  "BasePath": "_content/Services.Conversation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
